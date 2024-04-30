@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <div>
       <nav className="App-header">
-        <h1>Flatiron Bank </h1>
+        <h1>The Royal Bank of Flatiron</h1>
       </nav>
     </div>
   );
